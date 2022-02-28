@@ -13,7 +13,7 @@
 
 ## Simple example
 
-Also see [example project](test/main.dart) which contains working demo.
+Also see [example project](https://github.com/dgofman/form_components/blob/master/test/main.dart) which contains working demo.
 
 ```dart
 Widget createComponent(FormModel model) {
